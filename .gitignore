@@ -1,0 +1,11 @@
+### OSX ###
+.DS_Store
+
+### Node ###
+/node_modules
+npm-debug.log
+selenium-debug.log
+
+### Reports ###
+/reports
+screenshots

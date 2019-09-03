@@ -1,0 +1,12 @@
+{
+  "name": "nightwatch_demo",
+  "version": "1.0.0",
+  "description": "demo test cases for turo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch --retries 2"
+  },
+  "author": "jsellers180",
+  "license": "ISC"
+  }
+}
